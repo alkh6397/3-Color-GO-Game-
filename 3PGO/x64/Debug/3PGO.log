@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\c\source\repos\3PGO\3PGO\main.cpp(271,40): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\c\source\repos\3PGO\3PGO\main.cpp(570,52): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\c\source\repos\3PGO\3PGO\main.cpp(573,52): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\c\source\repos\3PGO\3PGO\main.cpp(576,50): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\c\source\repos\3PGO\3PGO\main.cpp(782,18): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\c\source\repos\3PGO\3PGO\main.cpp(785,18): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\c\source\repos\3PGO\3PGO\main.cpp(803,19): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\c\source\repos\3PGO\3PGO\main.cpp(806,19): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\c\source\repos\3PGO\3PGO\main.cpp(810,20): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  3PGO.vcxproj -> C:\Users\c\source\repos\3PGO\x64\Debug\3PGO.exe
